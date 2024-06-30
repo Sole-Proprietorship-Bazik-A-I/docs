@@ -10,5 +10,6 @@
 </head>
 <body>
     <p>Redirecting to <a href="https://sole-proprietorship-bazik-a-i.github.io/">https://sole-proprietorship-bazik-a-i.github.io/</a></p>
+    <p>Привет мир!</p>
 </body>
 </html>
